@@ -21,3 +21,4 @@ Neste capítulo, vamos trabalhar com o gerenciamento de compilações no OpenShi
 4. [Gerenciamento de Compilações no OpenShift](https://github.com/mentoria-openshift/capitulo04)
 5. [Gerenciamento de Implantações no OpenShift](https://github.com/mentoria-openshift/capitulo05)
 6. [Trabalhando com templates](https://github.com/mentoria-openshift/capitulo06)
+7. [Exercícios Práticos](https://github.com/mentoria-openshift/capitulo07)
